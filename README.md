@@ -2,7 +2,7 @@
 
 I specialize in custom styling, fast secure static websites, and custom Wordpress sites.
 
-[Codepen](https://codepen.io/leab) | [LinkedIn](https://www.linkedin.com/in/stevenleabo/) | [UpWork](https://www.upwork.com/o/profiles/users/~011442e16729fe0928) | [Twitter](https://twitter.com/Shadow_Stack) | [Shadow Stack, LLC](https://shadowstackllc.com)
+[Codepen](https://codepen.io/leab){:target="_blank"} | [LinkedIn](https://www.linkedin.com/in/stevenleabo/){:target="_blank"} | [UpWork](https://www.upwork.com/o/profiles/users/~011442e16729fe0928){:target="_blank"} | [Twitter](https://twitter.com/Shadow_Stack){:target="_blank"} | [Shadow Stack, LLC](https://shadowstackllc.com){:target="_blank"}
         
 
 <!--
