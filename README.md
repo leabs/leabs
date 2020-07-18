@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I specialize in custom styling, fast secure static websites, and custom Wordpress sites.
+
 <!--
 **leabs/leabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
