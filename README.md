@@ -1,4 +1,4 @@
-I build projects on **[YouTube](https://www.youtube.com/@shadowstack)**, work with frontend frameworks, make static sites with markdown and APIs, and streamline workflows with Python. I love creating cool projects and working with the tech behind modern apps and sites.
+I build projects on **[YouTube](https://www.youtube.com/@shadowstack)**, work with frontend frameworks, make static sites, and streamline workflows with Python.
 
 #### Notable Repos
 
