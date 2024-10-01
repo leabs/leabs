@@ -1,4 +1,4 @@
-I build projects on **[YouTube](https://www.youtube.com/@shadowstack)**, work with frontend frameworks, and streamline workflows with Python. I have experience working with startups and IoT dashboard apps, doing everything from QA to marketing to automation.
+I’m a web developer focused on creating secure, high-performance websites and web apps. My expertise lies in building frontends for apps, primarily Internet of Things (IoT) dashboards, though I also enjoy exploring new challenges and sharing projects on **[YouTube](https://www.youtube.com/@shadowstack)**. I am currently open to a full-time remote role if I’m a good fit for the company.
 
 #### Notable Repos
 
