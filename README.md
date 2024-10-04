@@ -1,5 +1,3 @@
-I enjoy learning new things, building interesting projects, and sharing them on **[YouTube](https://www.youtube.com/@shadowstack)**.
-
 #### Personal Projects
 
 - **[Zen Mode](https://github.com/leabs/zen-mode)**: YouTube dashboard for customizable video layouts that can be shared.
