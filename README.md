@@ -1,10 +1,10 @@
-I enjoy learning new things, building interesting projects, and sharing them on **[YouTube](https://www.youtube.com/@shadowstack)**. I am open to a full-time remote role if it’s a good fit.
+I enjoy learning new things, building interesting projects, and sharing them on **[YouTube](https://www.youtube.com/@shadowstack)**.
 
 #### Personal Projects
 
 - **[Zen Mode](https://github.com/leabs/zen-mode)**: YouTube dashboard for customizable video layouts that can be shared.
-- **[amplify-vite-react](https://github.com/leabs/amplify-vite-react)**: A simple Vite/React to-do app on AWS Amplify using Cognito.
-- **[MMM Urban Dictionary](https://github.com/leabs/MMM-urbandictionary)**: MagicMirror widget displaying random Urban Dictionary words.
+- **[Amplify Vite React To-Do](https://github.com/leabs/amplify-vite-react)**: A simple Vite/React to-do app on AWS Amplify using Cognito.
+- **[MMM-UrbanDictionary](https://github.com/leabs/MMM-urbandictionary)**: MagicMirror widget displaying random Urban Dictionary words.
 
 #### YouTube Series Projects
 
@@ -18,14 +18,8 @@ I enjoy learning new things, building interesting projects, and sharing them on 
 
 - **[Wordpress Docker Compose](https://github.com/leabs/wordpress-docker-compose)**: A docker-compose for deploying a Wordpress site with MySQL & phpMyAdmin to AWS EC2.
 - **[Misc Python Apps](https://github.com/leabs/misc-python-apps)**: Time-saving Python projects.
+- **[Python Web Scrape UI](https://github.com/leabs/web-scrape-ui)**: Python based web scraping in the browser. [Video link](https://youtu.be/Da56IZa041A)
 
 #### Open Source Contributions
 
-- **[bluesky-social / atproto-website](https://github.com/bluesky-social/atproto-website/pull/13)**
-- **[meta / react-native-website](https://github.com/facebook/react-native-website/pull/3589)**
-- **[github / docs](https://github.com/github/docs/pull/23958)**
-- More coming soon
-
-#### My Favorite Frameworks and Services
-
-Astro, Tailwind, Bulma CSS, NextJS, React, Render, Cloudflare, Supabase, Heroku, GitLab, Vercel, AWS, Replit
+**[bluesky-social / atproto-website](https://github.com/bluesky-social/atproto-website/pull/13)**, **[meta / react-native-website](https://github.com/facebook/react-native-website/pull/3589)**, **[github / docs](https://github.com/github/docs/pull/23958)**, More coming soon
