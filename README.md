@@ -16,7 +16,7 @@ I enjoy learning new things, building interesting projects, and sharing them on 
 
 #### Project Kickstarters & Automation
 
-- **[Wordpress Docker Compose](https://github.com/leabs/wordpress-docker-compose)**: A simple docker-compose for running a Wordpress site with MySQL & phpMyAdmin then deploying to AWS EC2.
+- **[Wordpress Docker Compose](https://github.com/leabs/wordpress-docker-compose)**: A docker-compose for deploying a Wordpress site with MySQL & phpMyAdmin to AWS EC2.
 - **[Misc Python Apps](https://github.com/leabs/misc-python-apps)**: Time-saving Python projects.
 
 #### Open Source Contributions
