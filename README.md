@@ -12,7 +12,7 @@
 - **[Sheets CMS](https://github.com/leabs/sheets-cms)**: A static site using Google Sheets as a database (lol). [Video link](https://www.youtube.com/watch?v=VyQm2QW5Bgc)
 - **[VisionOS CSS Transitions](https://github.com/leabs/visionOS-blur-transition)**: A visionOS CSS animation that transitions content over a static background. [Video link](https://www.youtube.com/watch?v=lNSX4nvzbnM)
 
-#### Project Kickstarters & Automation
+#### Tools & Automation
 
 - **[Wordpress Docker Compose](https://github.com/leabs/wordpress-docker-compose)**: A docker-compose for deploying a Wordpress site with MySQL & phpMyAdmin to AWS EC2.
 - **[Misc Python Apps](https://github.com/leabs/misc-python-apps)**: Time-saving Python projects.
