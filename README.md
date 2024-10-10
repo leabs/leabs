@@ -14,8 +14,8 @@
 
 #### Tools & Automation
 
-- **[Wordpress Docker Compose](https://github.com/leabs/wordpress-docker-compose)**: A docker-compose for deploying a Wordpress site with MySQL & phpMyAdmin to AWS EC2.
-- **[Misc Python Apps](https://github.com/leabs/misc-python-apps)**: Time-saving Python projects.
+- **[Wordpress Docker Compose](https://github.com/leabs/wordpress-docker-compose)**: A docker-compose for deploying a Wordpress site with MySQL & phpMyAdmin to a VPS.
+- **[Misc Python Apps](https://github.com/leabs/misc-python-apps)**: Time-saving Python projects. [Video link](https://www.youtube.com/watch?v=R2KZsakOS8c)
 - **[Python Web Scrape UI](https://github.com/leabs/web-scrape-ui)**: Python based web scraping in the browser. [Video link](https://youtu.be/Da56IZa041A)
 
 #### Open Source Contributions
